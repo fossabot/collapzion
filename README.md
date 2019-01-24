@@ -1,4 +1,6 @@
 # collapzion.js (v 1.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ft3zz%2Fcollapzion.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ft3zz%2Fcollapzion?ref=badge_shield)
+
 Lightweight jQuery plugin that help to create and Floating Action Buttons  for your mobile or dekstop application
 
 <img src="https://image.ibb.co/fJqbao/channasmcs_Floating_Action_Buttons.jpg" id="image-img" class="image-framed" style="max-width: 1275px;">
@@ -48,3 +50,6 @@ in this time collapzion.js use , [Google material Icon](https://material.io/icon
 ## License
 Copyright &copy; Channa Bandara<br>
 Licensed under the  GNU GENERAL PUBLIC LICENSE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ft3zz%2Fcollapzion.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ft3zz%2Fcollapzion?ref=badge_large)
